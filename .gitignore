@@ -4,9 +4,6 @@ backend/.env
 client/.env
 SuperAdmin/.env
 
-testAdmin
-admin
-
 
 # Dependencies
 node_modules/
